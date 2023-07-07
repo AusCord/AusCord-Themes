@@ -12,7 +12,7 @@
     <h1>🖥️ Supported applications</h3>
     <ul>
         <li>Guilded (50%)</li>
-        <li>Discord/Vencord (Coming soon)</li>
+        <li>Discord (Coming soon)</li>
     </ul>
 </div>
 
