@@ -20,7 +20,7 @@
 <div align="left">
     <h1>🖥️ Supported applications</h3>
     <ul>
-        <li>Guilded (50%)</li>
+        <li>Guilded (On hold until better documentation can be found)</li>
         <li>Discord (Coming soon)</li>
     </ul>
 </div>
