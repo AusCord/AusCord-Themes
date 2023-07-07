@@ -1,9 +1,11 @@
-<!-- Banner -->
+<!-- Banner/Banner icons -->
 <div align="center">
   <a href="https://github.com/NotAussie/AusCord" target="__parent">
     <img src="Assets/banner-rounded.png">
   </a>
 <div>
+
+<br>
 
 <div align="left">
   <h3>Applications</h3>
