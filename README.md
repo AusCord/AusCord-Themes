@@ -1,2 +1,3 @@
-# AusCord
-AusCord is a set of themes for apps that I use daily.
+<br align="center">
+  <img src="Assets/banner-rounded.png">
+<br>
