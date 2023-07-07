@@ -3,6 +3,10 @@
     <a href="https://github.com/NotAussie/AusCord" target="_blank">
         <img src="Assets/banner-rounded.png">
     </a>
+    <!-- Shields -->
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/notaussie/auscord/total?style=for-the-badge&logo=github&logoColor=%23000&label=Downloads&labelColor=%23E9C46A&color=%23000">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/notaussie/auscord?style=for-the-badge&logo=github&logoColor=%23000&label=License&labelColor=%23E9C46A&color=%23000">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/notaussie/auscord?style=for-the-badge&logo=github&logoColor=%23000&label=Top%20Language&labelColor=%23E9C46A&color=%23000">
 </div>
 
 <br>
