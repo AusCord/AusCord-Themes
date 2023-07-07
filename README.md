@@ -6,7 +6,12 @@
     <!-- Shields -->
     <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/notaussie/auscord/total?style=for-the-badge&logo=github&logoColor=%23000&label=Downloads&labelColor=%23E9C46A&color=%23000">
     <img alt="GitHub license" src="https://img.shields.io/github/license/notaussie/auscord?style=for-the-badge&logo=github&logoColor=%23000&label=License&labelColor=%23E9C46A&color=%23000">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/notaussie/auscord?style=for-the-badge&logo=github&logoColor=%23000&label=Top%20Language&labelColor=%23E9C46A&color=%23000">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/notaussie/auscord?style=for-the-badge&logoColor=%23000&labelColor=%23E9C46A&color=%23000">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/notaussie/auscord?style=for-the-badge&logo=github&logoColor=%23000&label=Contributors&labelColor=%23E9C46A&color=%23000">
+    <a href="https://guilded.gg/AusCord"><img alt="Static Badge" src="https://img.shields.io/badge/AusCord-AusCord?style=for-the-badge&label=Guilded&labelColor=%23E9C46A&color=%23000&link=https%3A%2F%2Fguilded.gg%2FAusCord"></a>
+
+    
+
 </div>
 
 <br>
