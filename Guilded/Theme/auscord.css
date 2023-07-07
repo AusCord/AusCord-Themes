@@ -1,5 +1,36 @@
-/*/ Copyright 2023-Current - NotAussie /*/
+/* Copyright 2023-Current - NotAussie */
 
-.OptionsMenuPageWrapper-container {
-  background: #000;
+
+/* Settings side bar */
+.OptionsMenu-container-desktop .OptionsMenu-options-control {
+    padding: 24px 0;
+    background-color: #181818;
+    width: 200px;
+    flex-wrap: nowrap;
+    overflow: auto;
+}
+
+.NavV4Footer-right {
+    height: 100%;
+    flex: 1 1 auto;
+    padding: 8px 12px;
+    z-index: 2;
+    --border-color: #181818;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    min-width: 0;
+    background-color: #181818;
+}
+
+.NavV4Footer-menu-icon {
+    cursor: pointer;
+    height: 100%;
+    flex: 0 0 var(--group-selector-width);
+    width: var(--group-selector-width);
+    display: flex;
+    background-color: #181818;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
 }
