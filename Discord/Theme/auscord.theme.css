@@ -1,0 +1,55 @@
+/**
+ * @name AusCord
+ * @author notaussie
+ * @version 0.1
+ * @description A modern and dark theme
+ * @source https://github.com/notaussie/auscord
+*/
+
+:root {
+  --mention-color-bar: #F23F42;
+  --mention-color-background: rgba(198, 98, 98, 0.12);
+  --mention-color-hover: rgba(198, 98, 98, 0.15);
+  --mention-color: #F23F42;
+  --unread-color: #FFFFFF;
+  --chat-buttons: #3E3E42;
+  --avatar-radius: 10px;
+  --status-radius: 5px;
+  --server-radius: 10px;
+  --status-background: none;
+  --online: #43B581;
+  --iddle: #FAA61A;
+  --dnd: #F04747;
+  --offline: #747F8D;
+  --streaming: #593695;
+  --spotify-color: #1EDC62;
+  --user-buttons-spacing: 8px;
+  --user-buttons-color: #E9C46A;
+  --role-circle: 10px;
+  --discord-logo: none;
+  --colored-emoji: grayscale(0%);
+  --disable-animations: 2s channel-unread infinite;
+}
+
+.theme-dark {
+  --background-primary: #1F1F1F;
+  --background-secondary: #181818;
+  --background-secondary-alt: #252526;
+  --background-tertiary: #181818;
+  --background-mobile-primary: #181818;
+  --background-mobile-secondary: #252526;
+  --channeltextarea-background: #252526;
+  --background-accent: #E9C46A;
+  --background-modifier-hover: rgba(0, 0, 0, 0.06);
+  --background-modifier-active: rgba(0, 0, 0, 0.10);
+  --background-modifier-selected: rgba(0, 0, 0, 0.12);
+  --deprecated-card-bg: rgba(18, 20, 31, 0.39);
+  --background-floating: rgb(62, 62, 66, 1);
+  --deprecated-quickswitcher-input-background: #3E3E42;
+  --scrollbar-auto-thumb: #3E3E42;
+  --scrollbar-auto-track: #3E3E42;
+  --scrollbar-thin-thumb: #3E3E42;
+  --activity-card-background: #181818;
+  --background-message-hover: transparent;
+  --elevation-low: none;
+}
